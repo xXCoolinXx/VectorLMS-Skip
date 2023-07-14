@@ -3,7 +3,7 @@
 // @version  1
 // @grant    GM.getValue 
 // @grant    GM.setValue
-// @match 	 https://uastudents-al.safecolleges.com/*
+// @match 	 https://YOUR_WEBITE_HERE.com/*
 // @grant unsafeWindow
 // @run-at document-end
 // ==/UserScript==

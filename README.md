@@ -5,6 +5,8 @@
 This script requires you to install the Greasemonkey browser extension. Follow these steps to use it:
 
 * Paste the contents of `skip.js` into a new Greasemonkey userscript
+* Change the part where it says `YOUR_WEBSITE_HERE.com` to the website where your learning modules are located
+    * Be sure to keep the `https://` before and the `/*` after putting in the correct website.
 * Navigate to the module you want the script to complete
 * Let the script take you to the first two tasks
     * These two tasks require manual intervention

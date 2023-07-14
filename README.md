@@ -23,6 +23,6 @@ This script requires you to install the Greasemonkey browser extension. Follow t
 * Occasionally, it may stop and the video will be gone from the page
     * When this happens, REFRESH the page (do NOT go back to the home page as this will break the script)
     * The video will need to be started manually as it has embedded questions you must answer
-    * Follow the instructions for task 2 to complete this video
+    * Follow the same instructions as need for task 2 to complete this video
 * If all goes well, you will finally reach the assessment screen. These questions must be answered manually. 
 * If you are not able to score the required 80%, you should go back and watch the videos, and question your life choices.
